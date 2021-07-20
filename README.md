@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://www.linkedin.com/in/abhinav-jain-214338159/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="abhinav-jain-214338159" height="30" width="40" /></a>
 <a href="https://www.instagram.com/abhinavjain50/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="abhinavjain50" height="30" width="33" /></a>
-<img href="https://twitter.com/Abhinav54458435" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Abhinav54458435" height="30" width="33" />
+<a href="https://twitter.com/Abhinav54458435/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Abhinav54458435" height="30" width="33" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

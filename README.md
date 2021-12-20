@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi <img src="https://ibb.co/0nPmSw7" width="29px">, I'm Abhinav Jain</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px">, I'm Abhinav Jain</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
 - 🔭 I’m currently working on **something cool 😉😁**

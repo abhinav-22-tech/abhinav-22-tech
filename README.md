@@ -1,4 +1,4 @@
-<!-- ### Hi there <img src="https://ibb.co/0nPmSw7" width="29px">
+<!-- ### Hi there 
  -->
 <!--
 **abhinav-22-tech/abhinav-22-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Abhinav Jain</h1>
+<h1 align="center">Hi <img src="https://ibb.co/0nPmSw7" width="29px">, I'm Abhinav Jain</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
 - 🔭 I’m currently working on **something cool 😉😁**

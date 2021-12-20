@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **anything 😎, I am happy to help if i can .**
+<!-- - 💬 Ask me about **anything 😎, I am happy to help if i can .** -->
 
 - 📫 How to reach me **abhinavsurenderccas@gmail.com**
 

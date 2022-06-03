@@ -1,7 +1,7 @@
 <h1 align="center">Hello, geeks! 👋 I'm Abhinav Jain</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-I pursuing a Bachelor of Technology focused in Computer Science and Engineering. I am an experienced developer skilled in JavaScript, Java, HTML, CSS, React.js, C++, Figma and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of _`Open Source`_ work.
+I'm pursuing a Bachelor of Technology focused in Computer Science and Engineering. I am an experienced developer skilled in JavaScript, Java, HTML, CSS, React.js, C++, Figma and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of _`Open Source`_ work.
 
 - 🔭 I’m currently working on **something cool 😉😁**
 
@@ -16,7 +16,6 @@ I pursuing a Bachelor of Technology focused in Computer Science and Engineering.
 
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
----
 ---
 <br>
 
